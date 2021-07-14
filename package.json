@@ -1,8 +1,8 @@
 {
-  "name": "@lekoarts/gatsby-theme-minimal-blog",
+  "name": "@raskal/gatsby-theme-yadb",
   "version": "3.0.2",
-  "author": "LekoArts <hello@lekoarts.de>",
-  "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
+  "author": "Julien Leleu",
+  "description": "Technical and opinion posts.",
   "license": "MIT",
   "main": "index.js",
   "publishConfig": {
@@ -41,12 +41,11 @@
     "lekoarts"
   ],
   "bugs": {
-    "url": "https://github.com/LekoArts/gatsby-themes/issues"
+    "url": "https://github.com/raskal/gatsby-theme-yadb/issues"
   },
-  "homepage": "https://themes.lekoarts.de",
+  "homepage": "https://github.com/raskal/gatsby-theme-yadb",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LekoArts/gatsby-themes.git",
-    "directory": "themes/gatsby-theme-minimal-blog"
+    "url": "https://github.com/raskal/gatsby-theme-yadb.git"
   }
 }

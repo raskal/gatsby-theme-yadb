@@ -1,13 +1,13 @@
 module.exports = (options) => ({
   siteMetadata: {
-    siteTitle: `Lupin`,
-    siteTitleAlt: `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-    siteLanguage: `en`,
+    siteTitle: `Julien Leleu`,
+    siteTitleAlt: `Julien Leleu - Personal blog`,
+    siteHeadline: `Julien Leleu - Personal blog`,
+    siteUrl: `https://redjista.fr/`,
+    siteDescription: `Technical and opinion posts.`,
+    siteLanguage: `fr`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `Julien Leleu`,
   },
   plugins: [
     {
